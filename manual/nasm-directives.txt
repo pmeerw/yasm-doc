@@ -118,7 +118,7 @@ compatibility with other assemblers.
 The ((`DEFAULT`)) directive changes the assembler defaults.  Normally,
 Yasm defaults to a mode where the programmer is expected to explicitly
 specify most features directly.  However, sometimes this is not
-desirable if a certain behavior is very commmonly used.
+desirable if a certain behavior is very commonly used.
 
 Currently, the only `DEFAULT` that is settable is whether or not
 registerless effective addresses in 64-bit mode are `RIP`-relative or
